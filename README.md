@@ -1,1 +1,2 @@
-# SQL--PRACTICALS
+SQL-PRACTICALS
+This repository is an SQL practical repository which contains PDF files that demonstrates my skillset when it comes to SQL and my ability to derive data that is meaningful and contributes to the decision making of a particular company at that point in time. The aim of these practicals is to document my progress from beginner level with SQL. The most important reason for these practicals is to theory to practice in order to demonstrate my abilities to solve complex SQL queries. The tools or softwares that i have used to apply SQL queries include Snowflake, MySQL Workbech, BigQuery, and Databricks.
